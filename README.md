@@ -1,4 +1,4 @@
-#What is Mystic?
+# What is Mystic?
 MYSTIC IS A DAO PROJECT THAT FOCUSED ON DEVELOPING DECENTRALISED FINANCE (DeFi) dApps.
 DAO and DeFi projects are soaring everywhere but mystic will make the changes on the flow. As we go searching we will found a good numbers of DeFi projects nowadays and the usecases are alike and this will mystic goes forward
 
