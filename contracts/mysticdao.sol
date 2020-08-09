@@ -56,7 +56,7 @@ contract StandardToken is Token {
 
 /**
  *@title MYSv1 Token Contract
- *@file mystakedao.sol
+ *@file mysticdao.sol
  *
  */
 
