@@ -435,11 +435,11 @@ contract MYSv2 is MintableToken, HasNoEther
         // Set last minted to current block.timestamp ('now')
         ownerTimeLastMinted = now;
         
-        // 2,000 minted tokens per day, 86,400 seconds in a day
-        ownerMintRate = calculateFraction(2000, 86400, decimals);
+        // 800 minted tokens per day, 86,400 seconds in a day
+        ownerMintRate = calculateFraction(800, 86400, decimals);
         
-        // 800,000 targeted minted tokens per year via staking; 31,536,000 seconds per year
-        globalMintRate = calculateFraction(800000, 31536000, decimals);
+        // 300,000 targeted minted tokens per year via staking; 31,536,000 seconds per year
+        globalMintRate = calculateFraction(300000, 31536000, decimals);
     }
 
     /// @dev staking function which allows users to stake an amount of tokens to gain interest for up to 10 days 
